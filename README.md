@@ -5,7 +5,7 @@ This thing-a-ma-bob is for testing of github only as I am a newbie at this thing
 
 Objectives / Goals:
 
-1) Understanding how to use the interface of GitHub
+1) Understanding how to use the interface of GitHub<p>
 
 2) Understanding the purpose and structure of repositories
 
