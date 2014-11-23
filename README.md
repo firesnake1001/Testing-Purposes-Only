@@ -8,6 +8,3 @@ This thing-a-ma-bob is for testing of github only as I am a newbie at this thing
 <p>Understanding the purpose and structure of repositories</p>
 <p>Understanding the mechanics of forking</p>
 <p>Not dying</p>
-
-For starters, I would like to know how to fix the above problem of having all text be in one paragraph.
-
